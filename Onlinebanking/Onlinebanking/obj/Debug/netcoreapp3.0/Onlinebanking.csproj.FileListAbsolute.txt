@@ -1,0 +1,11 @@
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\bin\Debug\netcoreapp3.0\Onlinebanking.exe
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\bin\Debug\netcoreapp3.0\Onlinebanking.deps.json
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\bin\Debug\netcoreapp3.0\Onlinebanking.runtimeconfig.json
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\bin\Debug\netcoreapp3.0\Onlinebanking.runtimeconfig.dev.json
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\bin\Debug\netcoreapp3.0\Onlinebanking.dll
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\bin\Debug\netcoreapp3.0\Onlinebanking.pdb
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\obj\Debug\netcoreapp3.0\Onlinebanking.csprojAssemblyReference.cache
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\obj\Debug\netcoreapp3.0\Onlinebanking.AssemblyInfoInputs.cache
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\obj\Debug\netcoreapp3.0\Onlinebanking.AssemblyInfo.cs
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\obj\Debug\netcoreapp3.0\Onlinebanking.dll
+C:\Users\Teacher\RiderProjects\Onlinebanking\Onlinebanking\obj\Debug\netcoreapp3.0\Onlinebanking.pdb
